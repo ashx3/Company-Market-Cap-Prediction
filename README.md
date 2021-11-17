@@ -7,7 +7,7 @@ Every year Fortune, an American Business Magazine, publishes the Fortune 500, wh
 Given data about big companies, let's try to predict the market capitalization of a given company.
 We will use a variety of regression models to make our predictions.<br>
 
-__DataSource__ -  _[KAGGLE DATASET LINK](https://www.kaggle.com/winston56/fortune-500-data-2021)_
+__DataSource__ -  _[KAGGLE](https://www.kaggle.com/winston56/fortune-500-data-2021)_
 
 ![Market Cap](/images/marketcap.jpg)
 
