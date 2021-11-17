@@ -9,7 +9,7 @@ We will use a variety of regression models to make our predictions.<br>
 
 __DataSource__ -  _[KAGGLE DATASET LINK](https://www.kaggle.com/winston56/fortune-500-data-2021)_
 
-![Market Cap](/images/market cap.jpg)
+![Market Cap](/images/marketcap.jpg)
 
 Data
 
